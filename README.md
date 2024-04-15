@@ -13,19 +13,17 @@ Task 4:
 -  MapReduce: Implement the Merge Sort3 algorithm using Map-Reduce.
 -  MapReduce: Implement the Bucket Sort4 algorithm using Map-Reduce.
 Task 5:
-• MapReduce: Implement the TF-IDF algorithm using Map-Reduce for the term “health” in the text of
+- MapReduce: Implement the TF-IDF algorithm using Map-Reduce for the term “health” in the text of
 the Tweets.
-• Create a short documentation in which you briefly describe your implementation:
-o How many MapReduce Jobs? Why?
-o What to write in the mapper(s) ? Flowchart and Pseudocode !
-o What to write in the reducer(s) ? Flowchart and Pseudocode ! 
+- Create a short documentation in which you briefly describe your implementation:
+ 
 # Assignment 2
-• The Program:
-– Correctness: 
-∗ Sequential-Scan Based Method 
-∗ R-Tree Based Method
-– Efficiency
-• The Report
-– Function Description
-– Requirement Description
-– Analysing the Working of R-Tree
+- The Program:
+- Correctness: 
+- Sequential-Scan Based Method 
+-  R-Tree Based Method
+- Efficiency
+- The Report
+- Function Description
+- Requirement Description
+- Analysing the Working of R-Tree
